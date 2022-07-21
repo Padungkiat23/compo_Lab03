@@ -60,4 +60,7 @@ export default {
   flex-direction: column;
   align-items: center;
 }
+h4 {
+  font-size: 20px;
+}
 </style>
